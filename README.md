@@ -33,4 +33,4 @@ More projects: [himanshubisoyi.com/portfolio](https://himanshubisoyi.com/portfol
 
 - Website and enquiry form: [himanshubisoyi.com](https://himanshubisoyi.com)
 - Services and prices: [himanshubisoyi.com/services](https://himanshubisoyi.com/services)
-- [LinkedIn](https://www.linkedin.com/in/himanshu-bisoyi/) · [Instagram](https://www.instagram.com/__d_i_p_u_____/) · [YouTube](https://www.youtube.com/@himanshubisoyi1826) · himanshubisoyi7@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/himanshu-bisoyi/) · [Instagram](https://www.instagram.com/himanshubisoyi.dev/) · [YouTube](https://www.youtube.com/@himanshubisoyi1826) · himanshubisoyi7@gmail.com
