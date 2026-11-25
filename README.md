@@ -1,6 +1,6 @@
 ### Hi, I'm Himanshu Bisoyi
 
-Senior Software Engineer at **The Akshaya Patra Foundation** and freelance website developer in **Hyderabad, India**. I have 4+ years of experience and have delivered 150+ websites for clients in India, the USA, Australia, Canada and the UAE.
+Senior Software Engineer at **ISKCON Bangalore** and freelance website developer in **Hyderabad, India**. I have 4+ years of experience and have delivered 150+ websites for clients in India, the USA, Australia, Canada and the UAE.
 
 **What I build**
 
@@ -26,7 +26,7 @@ More projects: [himanshubisoyi.com/portfolio](https://himanshubisoyi.com/portfol
 
 **Recognition**
 
-- Extra Mile Award, The Akshaya Patra Foundation (2026)
+- Extra Mile Award, ISKCON Bangalore (2026)
 - Star Performer of the Year, Smartinfosys.net (2023)
 
 **Work with me**
